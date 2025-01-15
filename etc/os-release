@@ -1,0 +1,7 @@
+PRETTY_NAME="veLinux #OSNAME# 2 (lyra)"
+NAME="veLinux #OSNAME#"
+VERSION_ID="2"
+VERSION="2 (lyra)"
+VERSION_CODENAME=lyra
+ID=velinux
+ID_LIKE=debian
